@@ -13,7 +13,7 @@
     ],
     "script": [
         "@Storefront",
-        "app/storefront/dist/storefront/js/shopware-dark-theme.js"
+        "app/storefront/dist/storefront/js/pt1602-dark-theme.js"
     ],
     "asset": [
         "@Storefront",
