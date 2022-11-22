@@ -1,0 +1,9 @@
+.account-menu .dropdown-menu {
+    background-color: $sw-background-color-secondary;
+    border-radius: unset;
+
+    .list-group-item {
+        background: unset;
+        color: $white;
+    }
+}

@@ -1,0 +1,9 @@
+.product-detail {
+    &-price {
+        color: $sw-text-color;
+    }
+
+    &-quantity-select {
+        background: unset;
+    }
+}

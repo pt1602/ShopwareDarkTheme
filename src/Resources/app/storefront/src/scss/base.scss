@@ -1,0 +1,44 @@
+/* Layout */
+@import 'layout/header';
+@import 'layout/navigation-flyout';
+@import 'layout/account-menu';
+@import 'layout/footer';
+@import 'layout/cookie-permission';
+
+/* Skin */
+@import 'skin/shopware/component/custom-select';
+
+/* Component */
+@import 'component/forms';
+@import 'component/modal';
+@import 'component/offcanvas';
+@import 'component/payment-method';
+@import 'component/tab-menu';
+
+/* Page */
+@import 'page/product-detail/product-detail';
+@import 'page/account/order-detail';
+
+.content-main {
+    .btn {
+        border-radius: unset;
+        color: $sw-text-color;
+
+        &.btn-light {
+            background: $sw-color-brand-secondary;
+        }
+    }
+}
+
+.icon {
+    color: $sw-text-color;
+}
+
+hr {
+    border-color: $white;
+}
+
+.list-group-item, .account-aside-item.is-active, .account-aside-item:hover, .checkout-aside-summary {
+    background: unset;
+    color: $white;
+}
