@@ -1,9 +1,15 @@
-.header-main, .header-minimal {
-    background-color: $sw-background-color-secondary;
+.header {
+    &-main, &-minimal {
+        background-color: $sw-background-color-secondary;
 
-    .header-logo-picture img {
-        width: 100%;
-        max-height: 3.75rem;
+        .header-logo-picture img {
+            width: 100%;
+            max-height: 3.75rem;
+        }
+    }
+
+    &-search-btn {
+        background: unset;
+        border-radius: unset;
     }
 }
-
