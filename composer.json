@@ -14,14 +14,14 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "ShopwareDarkTheme\\": "src/"
+            "PT1602DarkTheme\\": "src/"
         }
     },
     "extra": {
-        "shopware-plugin-class": "ShopwareDarkTheme\\ShopwareDarkTheme",
+        "shopware-plugin-class": "PT1602DarkTheme\\PT1602DarkTheme",
         "label": {
-            "de-DE": "ShopwareDarkTheme",
-            "en-GB": "ShopwareDarkTheme"
+            "de-DE": "PT1602DarkTheme",
+            "en-GB": "PT1602DarkTheme"
         }
     },
     "config": {
