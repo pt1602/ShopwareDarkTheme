@@ -1,18 +1,30 @@
 {
-  "name": "pt1602/dark-theme",
-  "description": "Dark Theme",
-  "type": "shopware-platform-plugin",
-  "license": "MIT",
-  "autoload": {
-    "psr-4": {
-      "ShopwareDarkTheme\\": "src/"
+    "name": "pt1602/dark-theme",
+    "description": "Dark Theme",
+    "version": "1.0.0",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipp Tuchardt",
+            "homepage": "https://www.pt1602.de/"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "ShopwareDarkTheme\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "ShopwareDarkTheme\\ShopwareDarkTheme",
+        "label": {
+            "de-DE": "ShopwareDarkTheme",
+            "en-GB": "ShopwareDarkTheme"
+        }
+    },
+    "config": {
+        "sort-packages": true
     }
-  },
-  "extra": {
-    "shopware-plugin-class": "ShopwareDarkTheme\\ShopwareDarkTheme",
-    "label": {
-      "de-DE": "ShopwareDarkTheme",
-      "en-GB": "ShopwareDarkTheme"
-    }
-  }
 }
