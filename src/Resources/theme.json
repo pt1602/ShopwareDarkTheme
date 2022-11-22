@@ -82,7 +82,7 @@
                     "de-DE": "Primärfarbe"
                 },
                 "type": "color",
-                "value": "#55FFF5",
+                "value": "#3abdb5",
                 "editable": true,
                 "block": "themeColors",
                 "order": 100
@@ -159,7 +159,7 @@
                     "de-DE": "Hinweis"
                 },
                 "type": "color",
-                "value": "#55FFF5",
+                "value": "#3abdb5",
                 "editable": true,
                 "block": "statusColors",
                 "order": 300
@@ -247,7 +247,7 @@
                     "de-DE": "Kaufen-Button"
                 },
                 "type": "color",
-                "value": "#55FFF5",
+                "value": "#3abdb5",
                 "editable": true,
                 "block": "eCommerce",
                 "order": 200
@@ -273,7 +273,7 @@
                     "de-DE": "Wird über einem Viewport von 991px angezeigt"
                 },
                 "type": "media",
-                "value": "",
+                "value": "/bundles/pt1602darktheme/assets/logo/shop.svg",
                 "editable": true,
                 "block": "media",
                 "order": 100
@@ -288,7 +288,7 @@
                     "de-DE": "Wird zwischen einem viewport von 767px bis 991px angezeigt"
                 },
                 "type": "media",
-                "value": "",
+                "value": "/bundles/pt1602darktheme/assets/logo/shop.svg",
                 "editable": true,
                 "block": "media",
                 "order": 200
@@ -303,7 +303,7 @@
                     "de-DE": "Wird bis zu einem Viewport von 767px angezeigt"
                 },
                 "type": "media",
-                "value": "",
+                "value": "/bundles/pt1602darktheme/assets/logo/shop.svg",
                 "editable": true,
                 "block": "media",
                 "order": 300
@@ -314,7 +314,7 @@
                     "de-DE": "App- & Share-Icon"
                 },
                 "type": "media",
-                "value": "",
+                "value": "/bundles/pt1602darktheme/assets/logo/shop.svg",
                 "editable": true,
                 "block": "media",
                 "order": 400
@@ -325,7 +325,7 @@
                     "de-DE": "Favicon"
                 },
                 "type": "media",
-                "value": "",
+                "value": "/bundles/pt1602darktheme/assets/logo/shop.svg",
                 "editable": true,
                 "block": "media",
                 "order": 500

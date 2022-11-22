@@ -1,6 +1,11 @@
 {
     "name": "pt1602/dark-theme",
     "description": "Dark Theme",
+    "keywords": [
+        "theme",
+        "darktheme",
+        "pt1602"
+    ],
     "version": "1.0.0",
     "type": "shopware-platform-plugin",
     "license": "MIT",
@@ -19,12 +24,22 @@
     },
     "extra": {
         "shopware-plugin-class": "PT1602DarkTheme\\PT1602DarkTheme",
+        "plugin-icon": "src/Resources/config/plugin.png",
         "label": {
             "de-DE": "PT1602DarkTheme",
             "en-GB": "PT1602DarkTheme"
+        },
+        "description": {
+            "de-DE": "Ein Dark-Theme für Shopware 6",
+            "en-GB": "A DarkTheme for Shopware 6"
+        },
+        "manufacturerLink": {
+            "de-DE": "https://github.com/pt1602/ShopwareDarkTheme/",
+            "en-GB": "https://github.com/pt1602/ShopwareDarkTheme/"
+        },
+        "supportLink": {
+            "de-DE": "https://github.com/pt1602/ShopwareDarkTheme/issues",
+            "en-GB": "https://github.com/pt1602/ShopwareDarkTheme/issues"
         }
-    },
-    "config": {
-        "sort-packages": true
     }
 }
