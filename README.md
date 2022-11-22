@@ -1,1 +1,1 @@
-# ShopwareDarkTheme
+# DarkTheme for Shopware
