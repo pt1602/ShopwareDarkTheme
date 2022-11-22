@@ -82,7 +82,7 @@
                     "de-DE": "Primärfarbe"
                 },
                 "type": "color",
-                "value": "#F39200",
+                "value": "#55FFF5",
                 "editable": true,
                 "block": "themeColors",
                 "order": 100
@@ -159,7 +159,7 @@
                     "de-DE": "Hinweis"
                 },
                 "type": "color",
-                "value": "#f39200",
+                "value": "#55FFF5",
                 "editable": true,
                 "block": "statusColors",
                 "order": 300
@@ -247,7 +247,7 @@
                     "de-DE": "Kaufen-Button"
                 },
                 "type": "color",
-                "value": "#f39200",
+                "value": "#55FFF5",
                 "editable": true,
                 "block": "eCommerce",
                 "order": 200
