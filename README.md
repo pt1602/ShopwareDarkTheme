@@ -1,4 +1,4 @@
-[![Sass](https://img.shields.io/badge/--blue?logo=sass&logoColor=fff)](https://www.javascript.com/)
+[![Sass](https://img.shields.io/badge/--blue?logo=sass&logoColor=fff)](https://sass-lang.com/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://github.com/pt1602/ShopwareDarkTheme/graphs/commit-activity)
 [![github forks](https://badgen.net/github/forks/pt1602/ShopwareDarkTheme/)](https://github.com/pt1602/ShopwareDarkTheme/network/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
