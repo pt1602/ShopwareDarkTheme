@@ -104,7 +104,7 @@
                     "de-DE": "Rahmen"
                 },
                 "type": "color",
-                "value": "#1a1a1a",
+                "value": "#3c3c3c",
                 "editable": true,
                 "block": "themeColors",
                 "order": 300
