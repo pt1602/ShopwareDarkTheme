@@ -15,9 +15,11 @@
 @import 'component/offcanvas';
 @import 'component/payment-method';
 @import 'component/tab-menu';
+@import 'component/product-box';
 
 /* Page */
 @import 'page/product-detail/product-detail';
+@import 'page/product-detail/configurator';
 @import 'page/account/order-detail';
 
 .content-main {
