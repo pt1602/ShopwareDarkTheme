@@ -7,8 +7,8 @@
         "@PT1602DarkTheme"
     ],
     "style": [
-        "app/storefront/src/scss/overrides.scss",
         "@Storefront",
+        "app/storefront/src/scss/overrides.scss",
         "app/storefront/src/scss/base.scss"
     ],
     "script": [

@@ -5,6 +5,7 @@
 @import 'layout/footer';
 @import 'layout/cookie-permission';
 @import 'layout/main-navigation';
+@import 'layout/search-suggest';
 
 /* Skin */
 @import 'skin/shopware/component/custom-select';
@@ -16,30 +17,12 @@
 @import 'component/payment-method';
 @import 'component/tab-menu';
 @import 'component/product-box';
+@import 'component/filter-range';
 
 /* Page */
 @import 'page/product-detail/product-detail';
 @import 'page/product-detail/configurator';
 @import 'page/account/order-detail';
-
-.content-main {
-    .btn {
-        border-radius: unset;
-        color: $sw-text-color;
-
-        &.btn-light {
-            background: $sw-color-brand-secondary;
-        }
-    }
-}
-
-.icon {
-    color: $sw-text-color;
-}
-
-hr {
-    border-color: $white;
-}
 
 .list-group-item, .account-aside-item.is-active, .account-aside-item:hover, .checkout-aside-summary {
     background: unset;
