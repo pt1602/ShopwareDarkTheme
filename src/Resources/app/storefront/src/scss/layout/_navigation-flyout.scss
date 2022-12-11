@@ -4,4 +4,10 @@
     &-link {
         color: $sw-text-color;
     }
+
+    &-categories.is-level-0 > .navigation-flyout-col {
+        &:before, &:after {
+            content: unset;
+        }
+    }
 }

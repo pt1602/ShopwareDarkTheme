@@ -1,0 +1,28 @@
+.btn {
+    border-radius: unset;
+}
+
+.content-main {
+    .btn {
+        color: $sw-text-color;
+
+        &.btn-light {
+            background: $sw-color-brand-secondary;
+            color: $white;
+
+            .icon {
+                color: $white;
+            }
+        }
+    }
+
+    .btn.disabled, .btn:disabled, .btn-buy.disabled, .btn-buy:disabled {
+        background: lighten($sw-color-brand-secondary, 20%);
+        color: $sw-background-color-secondary;
+        border-color: darken($sw-color-brand-secondary, 20%);
+
+        .icon {
+            color: $sw-background-color-secondary;
+        }
+    }
+}
