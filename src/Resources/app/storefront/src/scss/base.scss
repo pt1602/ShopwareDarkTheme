@@ -1,4 +1,13 @@
-/* Layout */
+/*
+DarkTheme for Shopware 6
+==================================================
+Philipp Tuchardt
+https://www.pt1602.de/
+*/
+
+/*
+ * Layout
+ * ----------------------- */
 @import 'layout/header';
 @import 'layout/navigation-flyout';
 @import 'layout/account-menu';
@@ -7,23 +16,30 @@
 @import 'layout/main-navigation';
 @import 'layout/search-suggest';
 
-/* Skin */
-@import 'skin/shopware/component/custom-select';
-
-/* Component */
+/*
+ * Component
+ * ----------------------- */
+@import 'component/buttons';
+@import 'component/custom-select';
 @import 'component/forms';
 @import 'component/modal';
 @import 'component/offcanvas';
 @import 'component/payment-method';
 @import 'component/tab-menu';
 @import 'component/product-box';
-@import 'component/filter-range';
+@import 'component/filter/filter-boolean';
+@import 'component/filter/filter-range';
 
-/* Page */
+/*
+ * Page
+ * ----------------------- */
 @import 'page/product-detail/product-detail';
 @import 'page/product-detail/configurator';
 @import 'page/account/order-detail';
 
+/*
+ * Basic Styles
+ * ----------------------- */
 .list-group-item, .account-aside-item.is-active, .account-aside-item:hover, .checkout-aside-summary {
     background: unset;
     color: $white;

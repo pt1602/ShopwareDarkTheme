@@ -11,29 +11,8 @@ https://getbootstrap.com/docs/4.0/getting-started/theming/#variable-defaults
     background: $sw-background-color;
 }
 
-.dropdown-menu{
+.dropdown-menu {
     background: $sw-color-brand-secondary;
-}
-
-.content-main {
-    .btn {
-        border-radius: unset;
-        color: $sw-text-color;
-
-        &.btn-light {
-            background: $sw-color-brand-secondary;
-        }
-    }
-
-    .btn.disabled, .btn:disabled, .btn-buy.disabled, .btn-buy:disabled {
-        background: lighten($sw-color-brand-secondary, 20%);
-        color: $sw-background-color-secondary;
-        border-color: darken($sw-color-brand-secondary, 20%);
-
-        .icon {
-            color: $sw-background-color-secondary;
-        }
-    }
 }
 
 .icon {

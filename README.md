@@ -8,7 +8,7 @@
 
 # DarkTheme for Shopware
 
-A pretty basic DarkTheme for Shopware 6, which I build to mainly understand how [Composer/Packagist.org](https://packagist.org/) works. 
+A pretty basic DarkTheme for Shopware 6, which I build to mainly to create my first [composer/Packagist.org](https://packagist.org/) package. 
 
 ---
 
