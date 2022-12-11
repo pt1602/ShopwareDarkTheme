@@ -1,5 +1,6 @@
 .header {
-    &-main, &-minimal {
+    &-main,
+    &-minimal {
         background-color: $sw-background-color-secondary;
 
         .header-logo-picture img {

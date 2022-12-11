@@ -1,0 +1,29 @@
+{
+    "name": "shopwaredarktheme",
+    "version": "0.0.2",
+    "description": "A simple Shopware 6 DarkTheme.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pt1602/ShopwareDarkTheme.git"
+    },
+    "author": "Philipp Tuchardt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pt1602/ShopwareDarkTheme/issues"
+    },
+    "homepage": "https://github.com/pt1602/ShopwareDarkTheme#readme",
+    "devDependencies": {
+        "prettier": "2.8.1"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "printWidth": 140,
+        "tabWidth": 4,
+        "semi": false,
+        "singleQuote": true
+    }
+}

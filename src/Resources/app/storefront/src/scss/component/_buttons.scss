@@ -16,7 +16,10 @@
         }
     }
 
-    .btn.disabled, .btn:disabled, .btn-buy.disabled, .btn-buy:disabled {
+    .btn.disabled,
+    .btn:disabled,
+    .btn-buy.disabled,
+    .btn-buy:disabled {
         background: lighten($sw-color-brand-secondary, 20%);
         color: $sw-background-color-secondary;
         border-color: darken($sw-color-brand-secondary, 20%);
