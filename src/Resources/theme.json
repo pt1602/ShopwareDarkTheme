@@ -1,24 +1,10 @@
 {
     "name": "PT1602DarkTheme",
     "author": "Philipp Tuchardt",
-    "views": [
-        "@Storefront",
-        "@Plugins",
-        "@PT1602DarkTheme"
-    ],
-    "style": [
-        "@Storefront",
-        "app/storefront/src/scss/overrides.scss",
-        "app/storefront/src/scss/base.scss"
-    ],
-    "script": [
-        "@Storefront",
-        "app/storefront/dist/storefront/js/pt1602-dark-theme.js"
-    ],
-    "asset": [
-        "@Storefront",
-        "app/storefront/src/assets"
-    ],
+    "views": ["@Storefront", "@Plugins", "@PT1602DarkTheme"],
+    "style": ["@Storefront", "app/storefront/src/scss/overrides.scss", "app/storefront/src/scss/base.scss"],
+    "script": ["@Storefront", "app/storefront/dist/storefront/js/pt1602-dark-theme.js"],
+    "asset": ["@Storefront", "app/storefront/src/assets"],
     "iconSets": {
         "darktheme": "app/storefront/src/assets/icon"
     },

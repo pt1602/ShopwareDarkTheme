@@ -40,7 +40,10 @@ https://www.pt1602.de/
 /*
  * Basic Styles
  * ----------------------- */
-.list-group-item, .account-aside-item.is-active, .account-aside-item:hover, .checkout-aside-summary {
+.list-group-item,
+.account-aside-item.is-active,
+.account-aside-item:hover,
+.checkout-aside-summary {
     background: unset;
     color: $white;
 }

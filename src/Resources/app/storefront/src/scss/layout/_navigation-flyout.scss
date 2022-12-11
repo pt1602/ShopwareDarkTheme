@@ -6,7 +6,8 @@
     }
 
     &-categories.is-level-0 > .navigation-flyout-col {
-        &:before, &:after {
+        &:before,
+        &:after {
             content: unset;
         }
     }

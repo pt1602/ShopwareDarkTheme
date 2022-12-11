@@ -2,7 +2,8 @@
     border-radius: unset;
 }
 
-.form-control, .form-control:focus {
+.form-control,
+.form-control:focus {
     border-radius: unset;
     background-color: $sw-background-color-secondary;
     color: $white;

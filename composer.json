@@ -41,5 +41,8 @@
             "de-DE": "https://github.com/pt1602/ShopwareDarkTheme/issues",
             "en-GB": "https://github.com/pt1602/ShopwareDarkTheme/issues"
         }
+    },
+    "require-dev": {
+        "friendsoftwig/twigcs": "^6.0"
     }
 }
